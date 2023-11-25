@@ -1,0 +1,18 @@
+.redes > ul {
+    display: flex;
+    flex-direction: row;
+    margin-right: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.redes > ul > li {
+    margin-right: 20px;
+    list-style: none;
+}
+a:link {
+    text-decoration:none;
+    }
+a:visited {
+    text-decoration:none;
+}

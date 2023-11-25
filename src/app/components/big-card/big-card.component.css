@@ -1,0 +1,13 @@
+img {
+    width: 500px;
+    border: 7px solid black;
+}
+section {
+    background-color: aqua;
+    text-align: center;
+    border: 6px solid black;
+    border-radius: 10px;
+    box-sizing : content-box;
+    padding: 0%;
+    width: 38%;
+}
