@@ -4,14 +4,19 @@
     margin-right: 20px;
     justify-content: center;
     align-items: center;
+    color: aliceblue;
 }
 
 .redes > ul > li {
     margin-right: 20px;
     list-style: none;
 }
+a {
+    color: aliceblue;
+}
 a:link {
     text-decoration:none;
+    color: aliceblue;
     }
 a:visited {
     text-decoration:none;

@@ -1,18 +1,32 @@
-img {
+.cardImage > img {
     width: 250px;
-    border: 10px solid black;
+    min-width: 200px;
+    margin-bottom: -4px;
+    max-height: 100%;
+    /* max-height: 140.63px; */
 }
 section {
     display: flex;
+    justify-content: flex-start;
     flex-direction: row;
-    background-color: aqua;
-    border: 6px solid black;
+    align-items: center;
+    background-color: #F78B00;
+    border: 6px solid white;
     border-radius: 10px;
+    box-sizing: border-box;
     width: 700px;
+    padding: 0%;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
-p{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.description {
+    margin-left: 20px;
+    font-size: 15px;
+}
+.title {
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 25px;
 }
