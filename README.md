@@ -8,6 +8,8 @@ He was developed for exersice to the class by Dio.me for bootcamp "Desenvolvimen
 Is a single page site,using some components for mounting the page.
 I wish continuing update this project according to my knowledge as growing.
 
+The site avaliable in link <https://xdeathfoxx-dev-blog.netlify.app/dev_blog/>
+
 # Thanks
 
 I want to thank everyone who sees the project and likes it.
